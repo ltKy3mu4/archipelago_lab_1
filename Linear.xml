@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <function>2*x+2</function>
+    <type>Linear</type>
+    <startFirst>true</startFirst>
+</root>

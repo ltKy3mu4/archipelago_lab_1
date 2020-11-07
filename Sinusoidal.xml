@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <function>sin(x)</function>
+    <type>Sinusoidal</type>
+    <startFirst>false</startFirst>
+</root>

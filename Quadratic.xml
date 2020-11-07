@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <function>-1*x*x+5</function>
+    <type>Quadratic</type>
+    <startFirst>false</startFirst>
+</root>
